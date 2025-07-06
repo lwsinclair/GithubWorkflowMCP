@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/maxteabag-githubworkflowmcp-badge.png)](https://mseep.ai/app/maxteabag-githubworkflowmcp)
+
 # GitHub Workflow Debugger MCP
 [![smithery badge](https://smithery.ai/badge/@Maxteabag/githubworkflowmcp)](https://smithery.ai/server/@Maxteabag/githubworkflowmcp)
 
